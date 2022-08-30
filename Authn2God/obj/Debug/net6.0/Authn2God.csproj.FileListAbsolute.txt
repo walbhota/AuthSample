@@ -25,3 +25,8 @@ C:\Users\USER\Desktop\Authn2God\Authn2God\obj\Debug\net6.0\refint\Authn2God.dll
 C:\Users\USER\Desktop\Authn2God\Authn2God\obj\Debug\net6.0\Authn2God.pdb
 C:\Users\USER\Desktop\Authn2God\Authn2God\obj\Debug\net6.0\Authn2God.genruntimeconfig.cache
 C:\Users\USER\Desktop\Authn2God\Authn2God\obj\Debug\net6.0\ref\Authn2God.dll
+C:\Users\USER\Desktop\Authn2God\Authn2God\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\Authn2God\Authn2God\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\Authn2God\Authn2God\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\Authn2God\Authn2God\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\Authn2God\Authn2God\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
