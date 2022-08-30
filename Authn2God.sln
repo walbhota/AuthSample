@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authn2God", "Authn2God\Authn2God.csproj", "{42D98F54-9978-43BC-A7B8-D21D499CC21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D98F54-9978-43BC-A7B8-D21D499CC21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D98F54-9978-43BC-A7B8-D21D499CC21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D98F54-9978-43BC-A7B8-D21D499CC21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D98F54-9978-43BC-A7B8-D21D499CC21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A373045F-5CB2-4A51-AD4E-21ED26E80127}
+	EndGlobalSection
+EndGlobal
